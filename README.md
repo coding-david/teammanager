@@ -4,7 +4,7 @@ Hi, hier wie besprochen der Code zu unserer REST-Application "Team-Manager".
 
 # Datenbank
 
-Wir haben eine in-memory Database h2 Verwendet.
+Wir haben eine in-memory Database H2 verwendet.
 
 Für mehr seht Euch gerne das an:  [Spring Boot With H2 - Baeldung](https://www.baeldung.com/spring-boot-h2-database)
 
@@ -22,7 +22,7 @@ Was genau Java Spring Boot ist, ist erstmal irrelevant. Das lernt ihr später.
 
 # Frontend
 
-Wir haben ein simmples React Java Script Frontend gebaut, welches beim Aufruf sich die Daten aus dem Backend holt. Hier würde ich auch empfehlen zu warten, bis ihr mehr wissen in der Webentwicklung habt.
+Wir haben ein simmples React Java Script Frontend gebaut, welches beim Aufruf sich die Daten aus dem Backend holt. Hier würde ich auch empfehlen zu warten, bis ihr mehr Wissen in der Webentwicklung habt.
 
 Was ist React: [React](https://reactjs.org/)
 
